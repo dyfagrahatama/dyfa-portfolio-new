@@ -136,8 +136,8 @@ p {
 	z-index: 100;
 }
 #navigation .nav-icon {
-	width: 40px;
-	height: 40px;
+	width: 30px;
+	height: 30px;
 	margin: 0 auto;
 	margin-right: 0;
 	cursor: pointer;
@@ -145,6 +145,7 @@ p {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	opacity: 60%;
 }
 #navigation .nav-icon svg {
 	width: 80%;
